@@ -22,8 +22,7 @@ Meu nome é Thaís Souza
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-### Você pode entrar em contato comigo :mailbox
+### Você pode entrar em contato comigo :
 
 @thatasouzaa963@gmail.com
 
-![descrição do GIF](link GIF do Tenor)
